@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last true and new intelligence from Scotland. Being a true and perfect account of the overthrow of the rebells, with the number of the slain and taken, on both sides. With a list of the names of the chief ring-leaders, and ministers, engaged in this rebellion. Dated June 23, 1679.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04297</idno><idno type="EEBO-CITATION">52211862</idno>
+  <idno type="VID">175715</idno>
+  <idno type="EEBO-PROQUEST">2240898561</idno>
+  
+            <idno type="STC">Wing L508A</idno>
+            <idno type="STC">ESTC R179666</idno>
+            <idno type="OCLC">52211862</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B04297)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175715)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2747:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last true and new intelligence from Scotland. Being a true and perfect account of the overthrow of the rebells, with the number of the slain and taken, on both sides. With a list of the names of the chief ring-leaders, and ministers, engaged in this rebellion. Dated June 23, 1679.</title>
+               </titleStmt>
+               <extent>6, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Relates victory of government forces over covenanting rebels at Battle of Bothwell Bridge and lists names of rebels.</note>
+                  <note>Publication data suggested by Wing.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Bothwell Bridge, Battle of, 1679 --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  History --  1660-1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175715:1"/>
+            <p>The last True and New INTELLIGENCE FROM SCOTLAND.</p>
+            <p>BEING A True and Perfect Account of the Overthrow of the REBELLS, with the Number of the SLAIN and TAKEN, on both Sides.</p>
+            <p>With a List of the Names of the Chief Ring-Leaders, and Mini<g ref="char:EOLhyphen"/>sters, Engaged in this Rebellion.</p>
+            <p>Dated <hi>June</hi> 23. 1679.</p>
+            <p>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:175715:2"/>
+            <pb n="3" facs="tcp:175715:2"/>
+            <head>The last True and New Intelligence from <hi>Scotland.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>TO give you a short account of things, so far as the present hurrey of our business will give me leave, I have sent you these few lines to con<g ref="char:EOLhyphen"/>firm the former news of the overthrow of the Rebels here. The Victory was absolute, Eight Hundred being Kill'd upon the place, and Twelve Hundred Fifty and Five taken Prisoners, who were carried to <hi>Edenbo<g ref="char:EOLhyphen"/>rough,</hi> and there delivered into the Charge and Custo<g ref="char:EOLhyphen"/>dy of the Magistrates of the City on <hi>Thursday</hi> last, who took charge of them accordingly till further order. His Grace the Duke of <hi>Monmouth</hi> was expected there the same day, preparations being made for his reception. It is very observable, that most of those poor Captives lay the cause of their own misery, occasioned by their Villanous Rebellion upon their Ministers, who without ceasing continually pressed and incited them to it by the Thundering Arguments of their Fallacious Doctrine; not
+<pb n="4" facs="tcp:175715:3"/>suffering them to be at rest in their habitations at their Lawful Callings, till they had engaged themselves to take up Arms against their Sovereign, in defence of their King—Murthering Covenant.</p>
+            <p>The Duke of <hi>Monmouth,</hi> as it is here believed, will in a few days return for <hi>England;</hi> for the general report is that <hi>VValch</hi> is taken, who was the chief Ring-leader and Fomenter, as well of all the former as of these pre<g ref="char:EOLhyphen"/>sent mischiefs in this Kingdom, and it is believed, that the tranquility and peace of this Kingdom, may be the more safely secured by the serious, and powerful Prose<g ref="char:EOLhyphen"/>cution of such a notorious, and active Villane. It is thought that there are not Three Hundred of the Re<g ref="char:EOLhyphen"/>bels in a body; However his Majesties Forces are still in pursuit of their stragling parties among the Hills, and dayly take and kill such as make any opposition against them.</p>
+            <p>In all which it is to be observed as a great Providence of God, in the preservation of his Majesty, and his Government in this Kingdom, that so remarkable a Vi<g ref="char:EOLhyphen"/>ctory, should be obtained with so small a loss. For by all the accounts which we have had since the action it self, we cannot gather, that above Ten of His Ma<g ref="char:EOLhyphen"/>jesties Soldiers have been slain out-right, though we cannot deny but that several are wounded, though we hope not many mortally.</p>
+            <pb n="5" facs="tcp:175715:3"/>
+            <p> I have sent you here a list of the Chief Ring-leaders in this Rebelli<g ref="char:EOLhyphen"/>on, whose Names are as followeth.</p>
+            <div type="part">
+               <opener>
+                  <dateline>Edinb. <date>June 23. 1679.</date>
+                  </dateline>
+               </opener>
+               <list>
+                  <item>Two Mr. <hi>Stewarts</hi> Brothers of the Earl of <hi>Galloway.</hi>
+                  </item>
+                  <item>The Young Lord <hi>Caitillaw.</hi>
+                  </item>
+                  <item>Laird <hi>Earston Gourden.</hi>
+                  </item>
+                  <item>Laird of <hi>Blairglan.</hi>
+                  </item>
+                  <item>
+                     <hi>Cuningham</hi> of <hi>Mongretinan.</hi>
+                  </item>
+                  <item>Mr. <hi>John Cuningham</hi> of <hi>Bedla.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Bogle</hi> of <hi>Bogleholie,</hi> A Justice of the <hi>Barrony</hi> of <hi>Glasgow.</hi>
+                  </item>
+                  <item>
+                     <hi>Hambleton</hi> Brother to <hi>Preston.</hi>
+                  </item>
+                  <item>Major <hi>Learmouth.</hi>
+                  </item>
+                  <pb n="6" facs="tcp:175715:4"/>
+                  <item>
+                     <list>
+                        <head>MINISTERS.</head>
+                        <item>
+                           <hi>John Walch.</hi>
+                        </item>
+                        <item>
+                           <hi>John King.</hi>
+                        </item>
+                        <item>
+                           <hi>John Kild.</hi>
+                        </item>
+                        <item>Mr. <hi>Forester.</hi>
+                        </item>
+                        <item>Mr. <hi>Forester.</hi>
+                        </item>
+                        <item>Mr. <hi>Douglas.</hi>
+                        </item>
+                        <item>Mr. <hi>Samuel Arval.</hi>
+                        </item>
+                        <item>Mr. <hi>John Rea</hi>
+                        </item>
+                        <item>Mr, <hi>George Berkley.</hi>
+                        </item>
+                        <item>Mr. <hi>Gabriel Sample.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>
+                     <list>
+                        <head>HERRITORS.</head>
+                        <item>Mr. <hi>Hambleton</hi> of <hi>Kingkell.</hi>
+                        </item>
+                        <item>Mr. <hi>Balfour</hi> of <hi>Kinlock.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+            </div>
+            <trailer>FINIS,</trailer>
+            <pb facs="tcp:175715:4"/>
+            <pb facs="tcp:175715:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
